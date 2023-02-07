@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Rana</h1>
 <h3 align="center">A Passionate Web developer from India</h3>
-<img align="right" alt="Code" width="400" src="https://userimages.githubsercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-rana1&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-rana1" /> </p>
 
 - 👨‍💻 All of my info available at [https://www.linkedin.com/in/vivek-rana-0a865624b](https://www.linkedin.com/in/vivek-rana-0a865624b)
